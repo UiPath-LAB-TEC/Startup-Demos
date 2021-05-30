@@ -1,3 +1,6 @@
 [submodule "RPA_Challenge"]
 	path = RPA_Challenge
 	url = https://github.com/UiPath-LAB-TEC/RPA_Challenge.git
+[submodule "UIFI_FilterSearch"]
+	path = UIFI_FilterSearch
+	url = https://github.com/UiPath-LAB-TEC/UIFI_FilterSearch.git
