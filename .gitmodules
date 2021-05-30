@@ -4,3 +4,6 @@
 [submodule "UIFI_FilterSearch"]
 	path = UIFI_FilterSearch
 	url = https://github.com/UiPath-LAB-TEC/UIFI_FilterSearch.git
+[submodule "SAAC_SentimentAnalysis"]
+	path = SAAC_SentimentAnalysis
+	url = https://github.com/UiPath-LAB-TEC/SAAC_SentimentAnalysis.git
