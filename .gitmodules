@@ -7,3 +7,6 @@
 [submodule "SAAC_SentimentAnalysis"]
 	path = SAAC_SentimentAnalysis
 	url = https://github.com/UiPath-LAB-TEC/SAAC_SentimentAnalysis.git
+[submodule "UIEA_Expense_App"]
+	path = UIEA_Expense_App
+	url = https://github.com/UiPath-LAB-TEC/UIEA_Expense_App.git
